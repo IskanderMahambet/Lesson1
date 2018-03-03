@@ -4,3 +4,4 @@ if vopros=="Да" or vopros== "да" or vopros== "конечно":
 else:
     input("Почему: ")
     print("Ясно")
+print("Good Luck!")
